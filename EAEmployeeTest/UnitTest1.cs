@@ -9,7 +9,6 @@ namespace EAEmployeeTest
     [TestClass]
     public class UnitTest1:BaseSuper
     {
-        
         [TestMethod]
         public void TestMethod1()
         {

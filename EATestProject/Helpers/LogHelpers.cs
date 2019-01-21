@@ -6,5 +6,6 @@ namespace EAAutoFramework.Helpers
 {
     class LogHelpers
     {
+        // adding comment from github.
     }
 }
